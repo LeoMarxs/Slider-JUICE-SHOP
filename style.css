@@ -59,6 +59,16 @@
     border-radius: 50%;
 }
 
+#prev:hover {
+    background-color: #ffffff;
+    color: #000;
+}
+
+#next:hover {
+    background-color: #ffffff;
+    color: #000;
+}
+
 #prev {
     left: 30px;
 }
