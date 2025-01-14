@@ -75,7 +75,7 @@
 }
 
 .item.active img.fruit {
-    animation: toActive 0.5s ease-in-out 1;
+    animation: toActive 0.6s ease-in-out 1;
 }
 
 .item.active .title {
